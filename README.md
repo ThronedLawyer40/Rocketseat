@@ -2,9 +2,9 @@
 
 ![preview](./.github/preview.jpg)
 
-> Trilha Explorer
+> Learning track
 
-Projeto construído do Discover da Rocketseat.
+Project developed during the Discover course by Rocketseat.
 
 [🔗 Clique aqui para acessar](https://app.rocketseat.com.br/jornada/discover/conteudos)
 
@@ -12,5 +12,24 @@ Projeto construído do Discover da Rocketseat.
 
 - HTML
 - CSS
-- Git e Github
+- Git and Github
 - Figma
+
+<h1>📝What I Learned</h1>
+
+<h2>CSS:</h2>
+Elements Alignment <br>
+Containers customization <br>
+Pseudo-classes
+
+<h2>HTML:</h2>
+
+List <br>
+Font <br>
+Container hierarchy
+
+<h2>JAVASCRIPT:</h2>
+
+Functions <br>
+Const <br>
+Variables
