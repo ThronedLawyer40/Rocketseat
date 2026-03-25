@@ -87,14 +87,23 @@ body * {
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
+
+  animation: Slide-out 0.4s;
 }
 
 .light #switch button {
-  right: 0;
-  left: initial;
+  /*right: 0;
+  left: initial; 
+  tirei por conta da animação
+  */
+  animation: Slide-in 0.4s forwards;
 }
 
 /*Track*/
+
+#switch button:hover {
+  outline: 8px solid var(--highlight-color);
+}
 
 #switch span {
   display: block;
@@ -180,5 +189,23 @@ footer {
 
   .light {
     --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
+}
+
+@keyframes Slide-in {
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%;
+  }
+}
+
+@keyframes Slide-out {
+  from {
+    left: 50%;
+  }
+  to {
+    left: 0;
   }
 }
