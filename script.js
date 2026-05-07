@@ -4,7 +4,7 @@ function toggleMode() {
   /*if (html.classList.contains("light")) {
     html.classList.remove("light")
   } else {
-    html.classList.add("light")
+    html.classList.add("light") 
   }*/
   const img = document.querySelector("#profile img")
 

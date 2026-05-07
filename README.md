@@ -6,9 +6,9 @@
 
 Project developed during the Discover course by Rocketseat.
 
-[🔗 Clique aqui para acessar](https://app.rocketseat.com.br/jornada/discover/conteudos)
+[🔗 Click here to see](https://app.rocketseat.com.br/jornada/discover/conteudos)
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
 - HTML
 - CSS
